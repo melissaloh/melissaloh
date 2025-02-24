@@ -1,4 +1,4 @@
-I'm a Jack-of-many-trades for YOW! and [Skills Matter](https://skillsmatter.com/), a global community of technologists where software professionals go to get inspired, connect with peers and learn about new technologies.
+I'm a Jack-of-many-trades for [YOW!](https://yowcon.com/), a global community of technologists where software professionals go to get inspired, connect with peers and learn about new technologies.
 
 - 👋 Hi, I’m @melissaloh
 - 🌏 I live in Brisbane, Australia
